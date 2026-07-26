@@ -1,0 +1,16 @@
+{
+  "identity": "DEEPSPACEMIND",
+  "states": [
+    {
+      "id": "GENESIS",
+      "pulse": 0,
+      "vector": { "x": 0, "y": 0, "z": 0 },
+      "timestamp": 0
+    }
+  ],
+  "history": [],
+  "orbit": {
+    "hh_alpha": { "angle": 0, "radius": 200 },
+    "hh_beta": { "angle": 180, "radius": 200 }
+  }
+}
